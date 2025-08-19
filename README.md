@@ -100,5 +100,3 @@ PATCH /api/usuarios/1/peso?nuevoPeso=75.0
 GET /api/usuarios/1/imc
 ```
 
-## 📄 Licencia
-Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
